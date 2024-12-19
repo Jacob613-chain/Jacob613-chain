@@ -11,10 +11,4 @@ Huge crypto fan especially DeFi. Very Flexible with working environment and love
 
 ---
 
-### What's up now?
-
-![Alt text](brand-badge.png)
-
----
-
 ![graph](profile-3d-contrib/profile-night-rainbow.svg)
